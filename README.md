@@ -20,16 +20,16 @@ But, MSP require a checksum (its an verification to the server that it was send 
 
 *disclaimer: the checksum isnt full! im lazy to do object hashing xD*
 
-# Main SWF
-
-If i ever will leave MSP community, im also leaving a tutorial how to decompile Main SWF! 
-Just go to `main` folder and theres an explained tutorial!
-
 Requests can be collected by this tools: `Fiddler` and `Charles`
 
 *`i don't recommend fiddler because it dosent have AMF decoding built-in`*
 
 If you think that you are ready, go to `php` folder or `csharp` folder!
+
+# Main SWF
+
+If i ever will leave MSP community, im also leaving a tutorial how to decompile Main SWF! 
+Just go to `main` folder and theres an explained tutorial!
 
 # Sorry for ruining MSP hacks community
 # And no, i will not take this down : )
