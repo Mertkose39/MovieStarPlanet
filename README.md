@@ -31,7 +31,9 @@ If you think that you are ready, go to `php` folder or `csharp` folder!
 
 If i ever will leave MSP community, im also leaving a tutorial how to decompile Main SWF! 
 
-Just go to `main` folder and theres an explained tutorial!
+In MainSWF there is an checksum, so if you really want you can make your own full checksum!
+
+Just go to `mainswf` folder and theres an explained tutorial!
 
 # Sorry for ruining MSP hacks community
 # And no, i will not take this down : )
