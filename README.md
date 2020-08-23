@@ -16,6 +16,7 @@ And thats it!
 
 # How to send requests?
 MovieStarPlanet uses AMF (Action Message Format). We already have done AMF sending with C# and PHP so you dont need to code anything exepct the actions!
+
 But, MSP require a checksum (its an verification to the server that it was send by real MSP client, not edited by charles or something.) fortunately, we have already coded that :)! 
 
 *disclaimer: the checksum isnt full! im lazy to do object hashing xD*
@@ -29,6 +30,7 @@ If you think that you are ready, go to `php` folder or `csharp` folder!
 # Main SWF
 
 If i ever will leave MSP community, im also leaving a tutorial how to decompile Main SWF! 
+
 Just go to `main` folder and theres an explained tutorial!
 
 # Sorry for ruining MSP hacks community
